@@ -1,7 +1,7 @@
 baseURL = 'https://gotahara.github.io/example/'
 languageCode = 'ja-jp'
 title = 'My New Hugo Site'
-theme = 'docsy'
+theme = 'gohugo-theme-ananke'
 
 publishDir = "docs"
 
