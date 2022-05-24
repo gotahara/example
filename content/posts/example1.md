@@ -14,4 +14,4 @@ categories: [ test ]
  * bar
  * hoge
 
-![画像を入れることも可能です](/img/dc.jpg)
+![画像を入れることも可能です](/img/dc2.jpg)
