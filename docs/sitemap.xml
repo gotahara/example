@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://gotahara.github.io/example/</loc>
     <lastmod>2022-05-23T14:30:24+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://gotahara.github.io/example/categories/</loc>
     <lastmod>2022-05-23T14:30:24+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/example/</loc>
+    <loc>https://gotahara.github.io/example/tags/example/</loc>
     <lastmod>2022-05-23T14:30:24+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://gotahara.github.io/example/posts/</loc>
     <lastmod>2022-05-23T14:30:24+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://gotahara.github.io/example/tags/</loc>
     <lastmod>2022-05-23T14:30:24+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/test/</loc>
+    <loc>https://gotahara.github.io/example/tags/test/</loc>
     <lastmod>2022-05-23T14:30:24+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/test/</loc>
+    <loc>https://gotahara.github.io/example/categories/test/</loc>
     <lastmod>2022-05-23T14:30:24+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/example1/</loc>
+    <loc>https://gotahara.github.io/example/posts/example1/</loc>
     <lastmod>2022-05-23T14:30:24+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/example5/</loc>
+    <loc>https://gotahara.github.io/example/posts/example5/</loc>
     <lastmod>2019-09-28T16:45:05+00:00</lastmod>
   </url>
 </urlset>

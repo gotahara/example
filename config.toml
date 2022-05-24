@@ -1,9 +1,11 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://gotahara.github.io/example/'
 languageCode = 'ja-jp'
 title = 'My New Hugo Site'
 theme = 'docsy'
 
 publishDir = "docs"
+
+canonifyurls = true
 
 [params]
 time_format_blog = "Monday, January 02, 2006"
